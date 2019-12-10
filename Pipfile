@@ -1,0 +1,18 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+h5py = "==2.8.0"
+beautifulsoup4 = "==4.6.3"
+numpy = "==1.15.4"
+tensorflow = "==1.13.1"
+nltk = "==3.4"
+Keras-Applications = "==1.0.6"
+Keras-Preprocessing = "==1.0.5"
+
+[requires]
+python_version = "3.6"
